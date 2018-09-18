@@ -1,4 +1,0 @@
-AuthName "Section Name"
-        AuthType Basic
-        AuthUserFile https://icecube1001.github.io/Coffey-House/
-        Require valid-user 
